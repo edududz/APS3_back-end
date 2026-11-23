@@ -276,3 +276,10 @@ pytest -v test_aps3.py
 python run_cenarios.py
 ```
 Esse script executará passo a passo os 12 cenários exibindo no console as requisições, status HTTP e respostas JSON formatadas.
+
+---
+
+## 8. Repositório no GitHub
+
+- **Link do Repositório**: [https://github.com/edududz/APS3_back-end](https://github.com/edududz/APS3_back-end)
+
